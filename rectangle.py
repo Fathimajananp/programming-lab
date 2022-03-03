@@ -7,4 +7,3 @@ def recPerimeter(l,b):
     print("perimeter=",perimeter)
 
 
-
